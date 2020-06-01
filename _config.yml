@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Exploring the Unseen
-description: Experiments in visualisation, data aggregation and analyses, as applied to India and Covid-19
+title:Exploring the Unseen
+description:Experiments in visualisation, data aggregation and analyses, as applied to India and Covid-19
 github_username: exploringtheunseen
 
 # Email and twitter are optional:
-email: exploringtheunseen.AA@gmail.com
-twitter_username: exploringtheunseen
+email:exploringtheunseen.AA@gmail.com
+twitter_username:exploringtheunseen
 
 # Set this to true to get LaTeX math equation support
 use_math:
