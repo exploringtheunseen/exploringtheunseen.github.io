@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+The curious characters guilty of this mess are:
+- Yash Damania
+- Abhishek Deshpande
+- [Shrirang Karandikar](https://shrirang.karandikar.org)
